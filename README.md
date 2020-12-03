@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Jaidev's github stats](https://github-readme-stats.vercel.app/api?username=jai2dev&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=jai2dev&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jai2dev&layout=compact&theme=radical)](https://github.com/jai2dev/github-readme-stats)
