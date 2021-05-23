@@ -19,4 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+
+
 -->
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jai2dev&show_icons=true&theme=gotham" alt="Jaidev Chittoria | Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{jai2dev}/count.svg)
