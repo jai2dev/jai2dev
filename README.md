@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{jai2dev}/count.svg)
+<!--  ![Visitor Count](https://profile-counter.glitch.me/{jai2dev}/count.svg) -->
