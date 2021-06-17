@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{jai2dev}/count.svg)
+
+![](https://komarev.com/ghpvc/?username=jaidev2)
