@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Alt Text](https://media.giphy.com/media/l3975CZuyQgoNVuOA/giphy.gif)
+<!-- ![Alt Text](https://media.giphy.com/media/l3975CZuyQgoNVuOA/giphy.gif) -->
+<img src="https://media.giphy.com/media/l3975CZuyQgoNVuOA/giphy.gif" width="50" height="50" />
 
 
 
