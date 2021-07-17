@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/l3975CZuyQgoNVuOA/giphy.gif)
+
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jai2dev&layout=compact&theme=radical)](https://github.com/jai2dev/github-readme-stats)
