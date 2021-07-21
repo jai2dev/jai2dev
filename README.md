@@ -8,7 +8,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jai2dev&layout=compact&theme=radical)](https://github.com/jai2dev/github-readme-stats)
 
 <!--
 **jai2dev/jai2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +28,11 @@ Here are some ideas to get you started:
 
 -->
 
+
  <details>
 <summary>📊 Github Stats</summary>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jai2dev&layout=compact&theme=radical)](https://github.com/jai2dev/github-readme-stats)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jai2dev&show_icons=true&theme=gotham" alt="Jaidev Chittoria | Stats" />
 
