@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-<img height="25" src="https://badges.pufler.dev/visits/jai2dev/jai2dev?color=black&logo=github" />
+
 <img height="25" src="https://komarev.com/ghpvc/?username=jai2dev&color=brightgreen" />
 
 
